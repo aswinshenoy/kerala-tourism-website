@@ -1,0 +1,26 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#menu a
+{
+    color: white;
+}
+
+.social-icons a
+{
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: none!important;
+    background: blue;
+    border-radius: 50px;
+    color: white;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.social-icons a:hover
+{
+    background: red;
+}
